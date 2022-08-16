@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate in any company
 - 📫 How to reach me tg @rockett11
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttekcor)](https://github.com/ttekcor/github-readme-stats)
 ![image](https://user-images.githubusercontent.com/85117608/180128188-fc8c270f-5b88-4c47-8deb-78f642378e54.png)
 
 
