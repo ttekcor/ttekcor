@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate in any company
 - 📫 How to reach me tg @rockett11
 
-![image](https://user-images.githubusercontent.com/85117608/180128188-fc8c270f-5b88-4c47-8deb-78f642378e54.png)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttekcor&show_icons=true&theme=radical&layout=compact)](https://github.com/ttekcor/github-readme-stats)
 [![ttekcor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttekcor&show_icons=true&theme=radical)](https://github.com/ttekcor/github-readme-stats)
 <!---
