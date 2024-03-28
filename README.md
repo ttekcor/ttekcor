@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttekcor
 - 👀 I’m interested in C++,ML,Robotics,Python
-- 🌱 I’m currently learning Neuron network & Telebot
+- 🌱 I’m currently learning Neuron network & Java 🍵💚
 - 💞️ I’m looking to collaborate in any company
 - 📫 How to reach me tg @rockett11
 ---
