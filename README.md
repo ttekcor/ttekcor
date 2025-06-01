@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ttekcor
 - 👀 I’m interested in C++,ML,Robotics,Python
 - 🌱 I’m currently learning Neuron network & React ⚛💚
-- 💞️ Now i’m studying in ATB-PlugIn
+- 💞️ Now i’m working in Coffee Machine
 - 📫 How to reach me tg @rockett11
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttekcor&show_icons=true&layout=compact&theme=gruvbox&hide=jupyter%20notebook)
