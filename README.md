@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttekcor
 - 👀 I’m interested in C++,ML,Robotics,Python
-- 🌱 I’m currently learning Neuron network & React ⚛💚
+- 🌱 I’m currently learning goLang💚
 - 💞️ Now i’m working in Coffee Machine
 - 📫 How to reach me tg @rockett11
 ---
